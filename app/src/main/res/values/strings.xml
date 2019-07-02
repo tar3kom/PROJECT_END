@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string-array name="scplace">
+        <item>sc01place</item>
+        <item>sc02place</item>
+        <item>sc03place</item>
+        <item>sc04place</item>
+        <item>sc05place</item>
+        <item>sc06place</item>
+        <item>sc07place</item>
+        <item>sc08place</item>
+        <item>sc09place</item>
+    </string-array>
+</resources>
+
+

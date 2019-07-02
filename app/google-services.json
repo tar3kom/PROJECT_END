@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108298003053",
+    "firebase_url": "https://kkuhelp.firebaseio.com",
+    "project_id": "kkuhelp",
+    "storage_bucket": "kkuhelp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108298003053:android:6fddbf0bc1b4e2c3",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108298003053-jg5r6en3n1m7m8m7r2v401hocer3ema2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "a102f459bd844a0f454bb6d2c786f56834ac20da"
+          }
+        },
+        {
+          "client_id": "108298003053-064eucv6kcm3le3l3jjjlfejqro8piq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNml98QaqNFP6bPk9ArUfhaPlzDdkqcYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108298003053-634cctkd9b8niank9ipo6k2fs2ro4p2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
